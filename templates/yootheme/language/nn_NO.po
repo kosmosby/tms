@@ -1,0 +1,159 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VERSION\n"
+"POT-Creation-Date: 2017-07-11 09:37+0000\n"
+"PO-Revision-Date: 2017-07-11 09:37+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
+"Language: nn_NO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! Siden ble ikke funnet."
+
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Vi kunne ikke finne det du ønsket. Forsøk et søk?"
+
+#, php-format
+msgid "Required fields are marked %s"
+msgstr "Påkrevde felter er merket med %s"
+
+msgid "Your email address will not be published."
+msgstr "Din e-postadresse vil ikke bli publisert."
+
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Du må være <a href=\"%s\">innlogget</a> for å skrive en kommentar."
+
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+msgstr "Innlogget som <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Logg ut av denne kontoen\">Logge ut?</a>"
+
+msgid "Name"
+msgstr "Navn"
+
+msgid "Email"
+msgstr "E-post"
+
+msgid "Website"
+msgstr "Nettside"
+
+msgid "Comment"
+msgstr "Kommentar"
+
+#, php-format
+msgid "Comments (%s)"
+msgstr "Kommentarer (%s)"
+
+msgid "Older Comments"
+msgstr "Eldre kommentarer"
+
+msgid "Newer Comments"
+msgstr "Nyere kommentarer"
+
+msgid "Comments are closed."
+msgstr "Kommentarer er stengt."
+
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s på %2$s"
+
+msgid "Your comment is awaiting moderation."
+msgstr "Din kommentar venter på godkjenning."
+
+msgid "Edit"
+msgstr "Rediger"
+
+msgid "Continue reading"
+msgstr "Les mer"
+
+msgid "Search Results for &#8220;%s&#8221;"
+msgstr "Søkeresultater for &#8220;%s&#8221;"
+
+msgid "Menu"
+msgstr "Meny"
+
+msgid "Search"
+msgstr "Søk"
+
+msgid "<span uk-pagination-next></span>"
+msgstr "<span uk-pagination-next></span>"
+
+msgid "<span uk-pagination-previous></span>"
+msgstr "<span uk-pagination-previous></span>"
+
+msgid "%1$s Previous"
+msgstr "%1$s Forrige"
+
+msgid "Next %1$s"
+msgstr "Neste %1$s"
+
+msgid "Nothing Found"
+msgstr "Ingenting funnet"
+
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Er du klar for å publisere din første post? <a href=\"%1$s\">Start her</a>."
+
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Beklager, men ingen søk passet med dine søkeord. Vennligst forsøk med noen andre søkeord."
+
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Det ser ut som om vi ikke kan finne det du leter etter. Kanskje du skal prøve å søke?!"
+
+msgid "Pages:"
+msgstr "Sider:"
+
+msgid "%1$s Edit"
+msgstr "%1$s Rediger"
+
+#, php-format
+msgid "Written by %s on %s."
+msgstr "Skrevet av %s den %s."
+
+msgid ", "
+msgstr ", "
+
+#, php-format
+msgid "Posted in %1$s"
+msgstr "Postet i %1$s"
+
+msgid "0 Comments"
+msgstr "Ingen kommentarer"
+
+msgid "1 Comment"
+msgstr "En kommentar"
+
+msgid "% Comments"
+msgstr "% kommentarer"
+
+#, php-format
+msgid "Written by %s."
+msgstr "Skrevet av %s."
+
+#, php-format
+msgid "Written on %s."
+msgstr "Skrevet %s."
+
+#, php-format
+msgid "Posted in %1$s."
+msgstr "Publisert i %1$s."
+
+msgid "Leave a Comment"
+msgstr "Skriv en kommentar"
+
+#, php-format
+msgid "Tags: %1$s"
+msgstr "Emneord: %1$s"
+
+msgid "Page Builder"
+msgstr "Sidebygger"
+
+msgid "&#8592; Back to WordPress Editor"
+msgstr "&#8592; Gå tilbake til Wordpress Editor"
+
+msgid "Home"
+msgstr "Hjem"
+

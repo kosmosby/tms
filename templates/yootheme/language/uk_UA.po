@@ -1,0 +1,159 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VERSION\n"
+"POT-Creation-Date: 2017-06-06 16:00+0000\n"
+"PO-Revision-Date: 2017-06-06 16:00+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
+"Language: uk_UA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "На жаль, ця сторінка не знайдена."
+
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Схоже, що нічого не знайдено в даному міісці. Може бути, спробувати пошук ще?"
+
+#, php-format
+msgid "Required fields are marked %s"
+msgstr "Обов&rsquo;язкові поля позначені %s"
+
+msgid "Your email address will not be published."
+msgstr "Ваша електронна адреса не буде опублікована."
+
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Ви повинні <a href=\"%s\"> увійти </a> щоб залишити коментар."
+
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+msgstr "Ви зайшли як <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Вийти?</a>"
+
+msgid "Name"
+msgstr "Ім&rsquo;я"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Website"
+msgstr "Сайт"
+
+msgid "Comment"
+msgstr "Коментар"
+
+#, php-format
+msgid "Comments (%s)"
+msgstr "Коментарів (%s)"
+
+msgid "Older Comments"
+msgstr "Старі коментарі"
+
+msgid "Newer Comments"
+msgstr "Нові коментарі"
+
+msgid "Comments are closed."
+msgstr "Коментарі закрити."
+
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s в %2$s"
+
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш коментар очікує модерацію"
+
+msgid "Edit"
+msgstr "Редагувати"
+
+msgid "Continue reading"
+msgstr "Читати далі"
+
+msgid "Search Results for &#8220;%s&#8221;"
+msgstr "Результати пошуку за запитом &#8220;%s&#8221;"
+
+msgid "Menu"
+msgstr "Меню"
+
+msgid "Search"
+msgstr "Пошук"
+
+msgid "<span uk-pagination-next></span>"
+msgstr "<span uk-pagination-next></span>"
+
+msgid "<span uk-pagination-previous></span>"
+msgstr "<span uk-pagination-previous></span>"
+
+msgid "%1$s Previous"
+msgstr "%1$s Попередня"
+
+msgid "Next %1$s"
+msgstr "Наступна %1$s"
+
+msgid "Nothing Found"
+msgstr "Нічого не знайдено"
+
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Чи готові опублікувати свій перший запис? <a href=\"%1$s\">Почніть тут</a>."
+
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "На жаль, не знайдені результати, що відповідають критеріям Вашого пошуку. Будь ласка, спробуйте повторити пошук з іншими ключовими словами."
+
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Здається, ми не можемо знайти те, що Ви шукаєте. Скористайтеся системою пошуку."
+
+msgid "Pages:"
+msgstr "Сторінок:"
+
+msgid "%1$s Edit"
+msgstr "%1$s Редагувати"
+
+#, php-format
+msgid "Written by %s on %s."
+msgstr "Опублікував(ла) %s , %s."
+
+msgid ", "
+msgstr ", "
+
+#, php-format
+msgid "Posted in %1$s"
+msgstr "Оубліковано в %1$s"
+
+msgid "0 Comments"
+msgstr "Коментарів немає"
+
+msgid "1 Comment"
+msgstr "Один коментар"
+
+msgid "% Comments"
+msgstr "% коментарів"
+
+#, php-format
+msgid "Written by %s."
+msgstr "Автор: %s."
+
+#, php-format
+msgid "Written on %s."
+msgstr "Дата публікації: %s."
+
+#, php-format
+msgid "Posted in %1$s."
+msgstr "Рубрика: %1$s"
+
+msgid "Leave a Comment"
+msgstr "Залишити коментар"
+
+#, php-format
+msgid "Tags: %1$s"
+msgstr "Теги: %1$s"
+
+msgid "Page Builder"
+msgstr "Сторінка Конструктора"
+
+msgid "&#8592; Back to WordPress Editor"
+msgstr "&#8592; Повернутися до редактора WordPress "
+
+msgid "Home"
+msgstr "Головна"
+

@@ -1,0 +1,159 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VERSION\n"
+"POT-Creation-Date: 2017-06-06 16:00+0000\n"
+"PO-Revision-Date: 2017-06-06 16:00+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Hoppla! Die Seite wurde nicht gefunden."
+
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Wie es aussieht, wurde an dieser Stelle nichts gefunden. Möchtest du eine Suche starten?"
+
+#, php-format
+msgid "Required fields are marked %s"
+msgstr "Pflichtfelder sind %s markiert."
+
+msgid "Your email address will not be published."
+msgstr "Die E-Mail Adresse wird nicht veröffentlicht."
+
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Bitte  <a href=\"%s\">anmelden</a> um einen Kommentar zu verfassen."
+
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+msgstr "Angemeldet als <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Benutzer abmelden\">Abmelden?</a>"
+
+msgid "Name"
+msgstr "Name"
+
+msgid "Email"
+msgstr "E-Mail"
+
+msgid "Website"
+msgstr "Webseite"
+
+msgid "Comment"
+msgstr "Kommentar"
+
+#, php-format
+msgid "Comments (%s)"
+msgstr "Kommentare (%s)"
+
+msgid "Older Comments"
+msgstr "Ältere Kommentare"
+
+msgid "Newer Comments"
+msgstr "Neuere Kommentare"
+
+msgid "Comments are closed."
+msgstr "Kommentare sind geschlossen."
+
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s in %2$s"
+
+msgid "Your comment is awaiting moderation."
+msgstr "Der Kommentar muss moderiert werden."
+
+msgid "Edit"
+msgstr "Bearbeiten"
+
+msgid "Continue reading"
+msgstr "Weiterlesen"
+
+msgid "Search Results for &#8220;%s&#8221;"
+msgstr "Suchergebnisse für &#8220;%s&#8221;"
+
+msgid "Menu"
+msgstr "Menü"
+
+msgid "Search"
+msgstr "Suche"
+
+msgid "<span uk-pagination-next></span>"
+msgstr "<span uk-pagination-next></span>"
+
+msgid "<span uk-pagination-previous></span>"
+msgstr "<span uk-pagination-previous></span>"
+
+msgid "%1$s Previous"
+msgstr "%1$s Vorherige"
+
+msgid "Next %1$s"
+msgstr "Nächste %1$s"
+
+msgid "Nothing Found"
+msgstr "Nichts gefunden"
+
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Erstelle jetzt den ersten Post. <a href=\"%1$s\">Start</a>."
+
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Es tut uns leid, aber wir haben nichts gefunden, was Ihren Suchkriterien entsprechen könnte. Bitte versuchen Sie es mit anderen Suchbegriff."
+
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Wir konnten leider nicht finden, wonach Sie gesucht haben. Vielleicht kann Ihnen die Suchmaschine weiterhelfen."
+
+msgid "Pages:"
+msgstr "Seiten:"
+
+msgid "%1$s Edit"
+msgstr "%1$s Bearbeiten"
+
+#, php-format
+msgid "Written by %s on %s."
+msgstr "Geschrieben von %s am %s."
+
+msgid ", "
+msgstr ", "
+
+#, php-format
+msgid "Posted in %1$s"
+msgstr "Veröffentlicht in %1$s"
+
+msgid "0 Comments"
+msgstr "0 Kommentare"
+
+msgid "1 Comment"
+msgstr "1 Kommentar"
+
+msgid "% Comments"
+msgstr "% Kommentare"
+
+#, php-format
+msgid "Written by %s."
+msgstr "Geschrieben von %s."
+
+#, php-format
+msgid "Written on %s."
+msgstr "Geschrieben am %s."
+
+#, php-format
+msgid "Posted in %1$s."
+msgstr "Veröffentlicht in %1$s."
+
+msgid "Leave a Comment"
+msgstr "Schreibe einen Kommentar"
+
+#, php-format
+msgid "Tags: %1$s"
+msgstr "Tags: %1$s"
+
+msgid "Page Builder"
+msgstr "Page Builder"
+
+msgid "&#8592; Back to WordPress Editor"
+msgstr "&#8592; Zurück zum Wordpress Editor"
+
+msgid "Home"
+msgstr "Home"
+
